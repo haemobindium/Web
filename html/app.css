@@ -1,0 +1,20 @@
+h1{
+	color: green;
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+	border: 2px dashed purple;
+}
+
+li{
+	color:red;
+}
+h4{
+	background: rgb(203,214,230);
+}
+body{
+	background: url(http://dendro.cnre.vt.edu/dendrology/images/Abies%20balsamea/wood.jpg);
+		/*background-repeat: no-repeat;
+		background-size: cover;*/
+
+}

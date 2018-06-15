@@ -1,0 +1,19 @@
+* {
+	color:orange;
+	background: grey;
+}
+li{
+	border: 2px solid red;
+}
+#special{
+	background: yellow;
+}
+
+.complete{
+	text-decoration: line-through;
+}
+
+li a{
+	color: black;
+
+}
